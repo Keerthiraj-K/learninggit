@@ -3,9 +3,5 @@ hi
 welcome
 bye
 come back
-<<<<<<< HEAD
-go back
-=======
 meet us
 
->>>>>>> subbranch2
